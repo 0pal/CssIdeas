@@ -1,0 +1,7 @@
+/* Cool style for links, whit a bluish line just underneath*/
+
+a, a:visited, a:hover {
+	color: #000;
+	border-bottom: 1px solid #60c8c9;
+	text-decoration: none;
+}
