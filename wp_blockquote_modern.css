@@ -1,0 +1,23 @@
+/*Blockquote in a modern style for wordpress theme*/
+
+blockquote{
+   box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.5);
+   border-left: 0.5em solid #BBB;
+   background-color: #fff;
+   padding: 2px 15px;
+   margin:15px 0px;
+}
+
+blockquote p{
+  margin-top: 3px;
+  margin-bottom:5px;
+}
+
+/*blockquote:before {
+    display: block;
+    height: 0px;
+    content: "“";
+    margin-left: -0.95em;
+    font: italic 400%/1 Cochin,Georgia,"Times New Roman",serif;
+    color: #999;
+}*/
